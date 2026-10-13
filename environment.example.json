@@ -1,0 +1,43 @@
+{
+  "account": {
+    "alias": "unknown-account",
+    "disclosure_profile": "sanitized-only",
+    "ownership": "unknown"
+  },
+  "agent": {
+    "context_limit": null,
+    "provider": "unknown",
+    "quality_evidence": "unknown",
+    "tools": [],
+    "version": null
+  },
+  "authorization_ref": null,
+  "budget": {
+    "max_api_cost": 0,
+    "max_context_tokens": 1000,
+    "max_import_seconds": 30,
+    "metering": "unknown",
+    "mode": "quick",
+    "reserve_quota": null
+  },
+  "device": {
+    "alias": "unknown-device",
+    "architecture": "unknown",
+    "os": "unknown",
+    "owner_declared": "unknown",
+    "trust": "unknown"
+  },
+  "duration": {
+    "expected_days": 1,
+    "switch_expected": true
+  },
+  "execution_host": {
+    "kind": "unknown",
+    "workspace_root": "selected-root"
+  },
+  "persistence": "session-only",
+  "private_access": "denied",
+  "project_id": "project-example",
+  "schema_version": 1,
+  "subject_id": "person-example"
+}

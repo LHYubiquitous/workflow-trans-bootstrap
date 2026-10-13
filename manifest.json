@@ -1,0 +1,15 @@
+{
+  "classification": "public",
+  "contains_private_profile": false,
+  "files": [
+    {
+      "path": "BOOTSTRAP.md",
+      "sha256": "801b55b6aeda490abd82661fe268d066531f56d4e2fa5dd4bd28b016588481e9"
+    },
+    {
+      "path": "environment.example.json",
+      "sha256": "567993f20e8c10002140c87bd34b41b261214b98ece92190aebde485fd145fbb"
+    }
+  ],
+  "schema_version": 1
+}
